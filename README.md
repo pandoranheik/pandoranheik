@@ -20,5 +20,7 @@ Tech stacks will change all the time but as of the moment of this writing (Augus
 - [Quizzical](https://quizzical-xi.vercel.app), a react quiz app that consumes an API
 
 ## 📮 Contact Me
+[My Linkedin](https://www.linkedin.com/in/pandora-nheik/)
+or
 [pandoranheik@gmail.com](mailto:pandoranheik@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
